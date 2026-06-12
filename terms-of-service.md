@@ -10,7 +10,7 @@ By downloading, installing, or using the MyROI mobile application ("the App"), y
 
 ## Description of Service
 
-MyROI is a personal accountability platform that allows users to create and join screen time challenge games with financial buy-ins. Participants who meet their daily screen time goals share the pool of buy-ins from participants who do not meet their goals.
+MyROI is a personal accountability platform that allows users to create and join screen time challenge games with financial buy-ins. Participants who meet their daily screen time goals share the pool of buy-ins from participants who have been dropped from the game due to not meeting their goals.  
 
 ---
 
