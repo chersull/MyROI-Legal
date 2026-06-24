@@ -1,6 +1,6 @@
 # Privacy Policy for MyROI
 
-**Last Updated: June 10, 2026**
+**Last Updated: June 23, 2026**
 
 ## Introduction
 
@@ -13,7 +13,7 @@ By using MyROI, you agree to the collection and use of information in accordance
 ## Information We Collect
 
 ### Information You Provide
-- **Account Information:** When you create an account, we collect your email address and password.
+- **Account Information:** When you create an account, we collect your display name, email address, and password. You may also create an account using Sign in with Apple or Sign in with Google, in which case we receive your name and email address from those providers.
 - **Game Information:** When you create or join a game, we collect the game parameters you set, including buy-in amount, daily goal, and duration.
 
 ### Information Collected Automatically
@@ -44,6 +44,7 @@ We do not sell your personal information. We share your information only in the 
 
 - **Firebase/Google:** We use Google Firebase for authentication, database storage, and cloud functions. Your data is stored securely on Firebase servers. You can review Google's privacy policy at policies.google.com/privacy.
 - **Stripe:** Payment processing is handled by Stripe. We share transaction-related information with Stripe to process payments. You can review Stripe's privacy policy at stripe.com/privacy.
+- **Apple and Google Sign-In:** If you choose to sign in with Apple or Google, basic profile information (name and email) is shared with us by those providers solely to create and manage your account.
 - **Other Players:** Your display name and game progress may be visible to other participants in games you join.
 - **Legal Requirements:** We may disclose your information if required by law or in response to valid legal requests.
 
@@ -102,5 +103,4 @@ We may update this Privacy Policy from time to time. We will notify you of any s
 If you have any questions about this Privacy Policy, please contact us at:
 
 **MyROI**  
-Email: chersull@gail.com  
-
+Email: chersull_99@yahoo.com
